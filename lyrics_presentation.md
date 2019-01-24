@@ -173,11 +173,11 @@ Each of these wordclouds show the top 75 words for the genre and increase the si
 
 ### Rap
 
-![](rap_wordcloud.png)
+![](Rap_wordcloud.png)
 
 ### Pop
 
-![](pop_wordcloud.png)
+![](Pop_wordcloud.png)
 
 ### RnB
 
